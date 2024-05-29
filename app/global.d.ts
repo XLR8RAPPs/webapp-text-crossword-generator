@@ -1,2 +1,2 @@
-declare module 'dify-client';
+declare module 'vercel-client';
 declare module 'uuid';
